@@ -1,5 +1,6 @@
-# landing-page
-Landing-page do Balle Bot
+# Balle Bot
+
+Recriando a Landing-page do Balle Bot
 
 <img width="1265" alt="Previa-landing-page" src="https://user-images.githubusercontent.com/101596991/181650904-ae0a28e1-97d4-46d1-8f6d-2e15ecfda0c9.png">
 
